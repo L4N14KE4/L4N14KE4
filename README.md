@@ -10,8 +10,8 @@
 
 📬 저나 제 프로젝트에 궁금한 점이 있으시거나 관심이 있으시다면 언제든지 연락 주세요.
 
-<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/ligard.-5865F2?style=flat-square&logo=discord&logoColor=FFFFFF"/>
-<a href="https://www.instagram.com/l4n14kea/" target="_blank"><img src="https://img.shields.io/badge/ligard.-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/>
+<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/ligard.-5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/>
+<a href="https://www.instagram.com/l4n14kea/" target="_blank"><img src="https://img.shields.io/badge/ligard.-BC4B7B?style=flat-square&logo=instagram&logoColor=FEFEFE"/>
 
 <hr>
 
