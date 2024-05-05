@@ -9,10 +9,12 @@
 🔍 관심 영역 : 머신러닝(NLP), 데이터 분석, 보안
 
 📬 저나 제 프로젝트에 궁금한 점이 있으시거나 관심이 있으시다면 언제든지 연락 주세요.
-
+<!--
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/ligard.-5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/>
 <a href="https://www.instagram.com/l4n14kea/" target="_blank"><img src="https://img.shields.io/badge/ligard.-BC4B7B?style=flat-square&logo=instagram&logoColor=FEFEFE"/>
-
+-->
+<a href="https://instagram.com/l4n14kea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l4n14kea" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="44" height="30" width="40" /></a>
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
