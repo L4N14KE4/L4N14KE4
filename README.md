@@ -14,7 +14,9 @@
 <a href="https://www.instagram.com/l4n14kea/" target="_blank"><img src="https://img.shields.io/badge/ligard.-BC4B7B?style=flat-square&logo=instagram&logoColor=FEFEFE"/>
 -->
 <a href="https://instagram.com/l4n14kea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l4n14kea" height="30" width="40" /></a>
+<!--
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="44" height="30" width="40" /></a>
+-->
 <hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
