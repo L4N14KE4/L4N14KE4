@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Welcome%20to%20L4N14KE4's%20Github!&fontAlign=50&fontSize=40&textBg=false&animation=fadeIn&section=header&reversal=false&stroke=0D1117&strokeWidth=1)
 ## 👋 안녕하세요!
 
-문헌정보학과 출신의 개발 지망생입니다.</br>
+문헌정보학과 출신의 개발자 지망생입니다.</br>
 일상의 작은 불편함을 기술을 통해 저만의 방식으로 바꿔보고자 개발을 시작했습니다.
 
 끊임없이 배우고, 기록하고, 성장하는 개발자가 되고자 합니다.
