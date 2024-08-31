@@ -24,3 +24,8 @@
 <a href="https://solved.ac/c_penguin">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c_penguin" height="160"/>
 </a>
+
+<hr>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/L4N14KE4?pet-id=1" width="1000" height="120"/>
+</a>
