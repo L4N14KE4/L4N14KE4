@@ -1,12 +1,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Welcome%20to%20L4N14KE4's%20Github!&fontAlign=50&fontSize=40&textBg=false&animation=fadeIn&section=header&reversal=false&stroke=0D1117&strokeWidth=1) -->
 ## 👋 안녕하세요!
 
-문헌정보학과 출신의 개발자 지망생입니다.</br>
 일상의 작은 불편함을 기술을 통해 저만의 방식으로 바꿔보고자 개발을 시작했습니다.
 
-끊임없이 배우고, 기록하고, 성장하는 개발자가 되고자 합니다.
-
-현재 크래프톤 정글 6기로 참여하여 공부하고 있습니다.
+끊임없이 배우고, 기록하고, 성장하고자 노력합니다.
 <!--
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/ligard.-5865F2?style=flat-square&logo=discord&logoColor=FEFEFE"/>
 <a href="https://www.instagram.com/l4n14kea/" target="_blank"><img src="https://img.shields.io/badge/ligard.-BC4B7B?style=flat-square&logo=instagram&logoColor=FEFEFE"/>
