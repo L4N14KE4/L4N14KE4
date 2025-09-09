@@ -18,10 +18,11 @@
   <img src="https://github-readme-stats-laniakeas-projects-6c2d5270.vercel.app/api?username=L4N14KE4&count_private=true&show_icons=true&theme=gotham&rank_icon=github" height="160"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--
 <a href="https://solved.ac/c_penguin">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c_penguin" height="160"/>
 </a>
-
+-->
 <hr>
 
 
